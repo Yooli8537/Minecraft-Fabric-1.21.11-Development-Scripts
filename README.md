@@ -10,6 +10,13 @@ Make sure you have Modrinth installed with an **Instance Folder** named "ModTest
 
 ## Installation
 
+### Releases
+
+1. Download the newest [release](https://github.com/Yooli8537/Minecraft-Fabric-1.21.11-Development-Scripts/releases).
+2. Unzip the file, setting your **project's root folder** as the target folder.
+
+### Git
+
 1. Run these commands in an IDE's (preferrably Intellij IDEA as it is standard for Minecraft Modding) CLI.
 ``` PowerShell
 git clone https://github.com/FabricMC/fabric-example-mod/tree/1.21.11

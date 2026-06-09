@@ -1,5 +1,11 @@
 # Changelog
 
+## 09.06.2026 - runClient.ps1 expansion
+
+### Added
+
+- runClinet.ps1 - Dependencies reload (installs new dependencies)
+
 ## 03.06.2026 - runClient.ps1 improvements
 
 ### Added
